@@ -1,0 +1,25 @@
+{
+    "name": "ex-akt/deployer-recipes",
+    "description": "The deployer recipes used at ex-akt IT MEDIA CONSULTING",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Samuel Heer",
+            "homepage": "https://github.com/samuelheer"
+        }
+    ],
+    "homepage": "https://ex-akt.de",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "require-dev": {
+        "deployer/deployer": "^7.0",
+        "nutshell-framework/deployer-recipes":"^1.0"
+    },
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
+
