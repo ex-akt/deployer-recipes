@@ -10,9 +10,7 @@
     ],
     "homepage": "https://ex-akt.de",
     "require": {
-        "php": "^7.4 || ^8.0"
-    },
-    "require-dev": {
+        "php": "^7.4 || ^8.0",
         "deployer/deployer": "^7.0",
         "nutshell-framework/deployer-recipes":"^1.0"
     },
